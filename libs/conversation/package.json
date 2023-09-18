@@ -1,0 +1,16 @@
+{
+  "name": "donami-conversation",
+  "version": "0.0.0-semantic-release",
+  "dependencies": {},
+  "main": "./index.js",
+  "module": "./index.mjs",
+  "typings": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donami/nx-repo-test.git",
+    "directory": "libs/conversation"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
