@@ -37,7 +37,7 @@
       "executor": "nx:run-commands",
       "outputs": [],
       "options": {
-        "command": "npx semenatic-release-plus --extends ./libs/conversation/release.config.js",
+        "command": "npx semantic-release-plus --extends ./libs/conversation/release.config.js",
         "parallel": false
       }
     }
