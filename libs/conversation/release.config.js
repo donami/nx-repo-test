@@ -3,7 +3,7 @@ const name = 'donami-conversation';
 
 module.exports = {
   extends: 'release.config.base.js',
-  pkgRoot: `dist/conversation`,
+  pkgRoot: `dist/libs/conversation`,
   // pkgRoot: `dist/${srcRoot}`,
   tagFormat: name + '-v${version}',
   commitPaths: [`libs/conversation/*`],
