@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/donami/nx-repo-test/compare/donami-conversation-v1.0.0...donami-conversation-v1.0.1) (2023-09-19)
+
+
+### Bug Fixes
+
+* **donami-conversation:** missing dependency ([352b895](https://github.com/donami/nx-repo-test/commit/352b8951003ee0dae91efac8d01649a9ecfd661f))
+* **donami-conversation:** update ([99955b9](https://github.com/donami/nx-repo-test/commit/99955b979001de37c70929d77f7eafaf5faa122a))
+
 # 1.0.0 (2023-09-18)
 
 
