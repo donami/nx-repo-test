@@ -20,6 +20,9 @@
     "paths": {
       "donami-conversation": [
         "libs/conversation/src/index.ts"
+      ],
+      "donami-ui": [
+        "libs/ui/src/index.ts"
       ]
     }
   },
