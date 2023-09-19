@@ -1,3 +1,6 @@
+import * as test from 'donami-ui';
+
 export function donamiConversation(): string {
-    return 'donami-conversation';
+  console.log('testing2', test.donamiUi());
+  return 'donami-conversation';
 }
